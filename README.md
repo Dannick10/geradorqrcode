@@ -5,6 +5,8 @@
 **Projeto utilizando HTML | CSS e JAVASCRIPT**
 &nbsp;
 &nbsp;
+<br>
+<br>
 **SOBRE**
 
 O Projeto se trata em um gerador de qrcode, permetindo a entrada de qualquer valor e URL. 
