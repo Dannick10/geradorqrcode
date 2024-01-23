@@ -9,7 +9,7 @@
 <img src="https://github.com/Dannick10/geradorqrcode/assets/102672001/2f14e0f2-a9c3-41f5-b12c-17891a89727c" width="100px" height="100px">
 </div>
 
-LINK: https://geradorqrcode-9nks5l5np-dannicks-projects.vercel.app
+LINK: https://geradorqrcode-hjfb9v8hc-dannicks-projects.vercel.app
 
  gerador de qrcode  HTML | CSS | TYPESCRIPT
 
