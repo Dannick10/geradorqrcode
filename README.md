@@ -2,7 +2,7 @@
 &nbsp;
 &nbsp;
 
-**Projeto utilizando HTML | CSS e JAVASCRIPT**
+**Projeto utilizando HTML | CSS e TYPESCRIPT**
 &nbsp;
 &nbsp;
 <br>
