@@ -22,12 +22,7 @@ O Projeto se trata em um gerador de qrcode, permetindo a entrada de qualquer val
 <img src="https://github.com/Dannick10/geradorqrcode/assets/102672001/d9a51751-1650-4f5c-a007-711f30ae5a06" width="100px" height="100px">
 <img src="https://github.com/Dannick10/geradorqrcode/assets/102672001/2f14e0f2-a9c3-41f5-b12c-17891a89727c" width="100px" height="100px">
 </div>
-&nbsp;
-&nbsp;
 
-LINK: geradorqrcode-theta.vercel.app
-&nbsp;
-&nbsp;
 
 
 
