@@ -25,7 +25,7 @@ O Projeto se trata em um gerador de qrcode, permetindo a entrada de qualquer val
 &nbsp;
 &nbsp;
 
-LINK: https://geradorqrcode-hjfb9v8hc-dannicks-projects.vercel.app
+LINK: geradorqrcode-theta.vercel.app
 &nbsp;
 &nbsp;
 
